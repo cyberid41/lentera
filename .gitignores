@@ -6,6 +6,8 @@ composer.lock
 .DS_Store
 Thumbs.db
 
+.idea
+
 resources
 node_modules
 .sass-cache
